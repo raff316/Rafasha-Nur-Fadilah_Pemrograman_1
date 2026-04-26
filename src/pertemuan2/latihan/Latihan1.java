@@ -17,7 +17,6 @@
             System.out.print("Usia: ");
             usia = input.nextInt();
 
-            // pilih gender
             System.out.println("\nPilih Gender: ");
             System.out.println("1. Laki-laki: ");
             System.out.println("2. Perempuan: ");
